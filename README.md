@@ -42,7 +42,7 @@ The study suggests future research into:
 
 ## 💡 Authors
 
-- Khaled Ammoura - [kaa74@mail.aub.edu](mailto:kaa74@mail.aub.edu)
+- Khaled Ammoura - [GitHub](https://github.com/Khaled1621) | [kaa74@mail.aub.edu](mailto:kaa74@mail.aub.edu)
 - Mohamad El Labban - [mhe56@mail.aub.edu](mailto:mhe56@mail.aub.edu)
 - Mohamad Faour - [msf20@mail.aub.edu](mailto:msf20@mail.aub.edu)
 
