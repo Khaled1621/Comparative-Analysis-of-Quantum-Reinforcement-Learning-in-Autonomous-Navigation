@@ -36,8 +36,7 @@ The study suggests future research into:
 ```
 .
 ├── Comparative_Analysis_of_QRL.pdf  # Research paper
-├── README.md                        # Project description
-└── LICENSE                          # Repository license
+└── README.md                        # Project description
 ```
 
 ## 💡 Authors
@@ -58,7 +57,3 @@ If you use this work, please cite:
   journal={American University of Beirut}
 }
 ```
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
